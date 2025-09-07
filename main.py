@@ -88,4 +88,4 @@ async def link(ctx : Context, username : str):
         await ctx.reply("Successfully linked! You should have your role.")
 
 if __name__ == "__main__":
-    dbot.run("")
+    dbot.run("MTQxMTA5NzMwOTMxMTI3MTEyNQ.G2bkXE._g98HsxZH4cDDme7oWKP_kVeyOVRlt3M95T_Ng")
